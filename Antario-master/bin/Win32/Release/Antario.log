@@ -1,0 +1,23 @@
+﻿  EnginePrediction.cpp
+  GUI.cpp
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.h(235): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.cpp(542): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Hooks.cpp
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.h(235): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  DLLMain.cpp
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.h(235): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Menu.cpp
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.h(235): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Settings.cpp
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.h(235): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  D3DFont.cpp
+  DrawManager.cpp
+  GlobalVars.cpp
+  Interfaces.cpp
+  NetvarManager.cpp
+  ESP.cpp
+c:\users\pfogs\desktop\mythichook\antario-master\antario\gui\gui.h(235): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Generating code
+  All 1740 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Antario.vcxproj -> C:\Users\pfogs\Desktop\MythicHook\Antario-master\build\Win32\Release\MythicHook.dll
